@@ -89,7 +89,7 @@ class PiacinGA(Piacin):
 
 	def mutation(self, solution):
 		for key in ['threshold_ratio', 'function_threshold', 'trace_eagerness', 'decay', 'disable_unrolling', 'max_retrace_guards']:
-			if random.random() < 1 / 6:
+			if random.random() < 1.0 / 6:
 				solution[key] = self.mutate_key(key)
 		return solution
 
