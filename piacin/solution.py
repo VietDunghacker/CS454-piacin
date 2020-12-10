@@ -3,13 +3,13 @@ class Solution(dict):
 		super(Solution, self).__init__()
 		if "base" in kwargs.keys():
 			base = kwargs.pop("base")
-			for key, value in base.iteritems():
+			for key, value in base.items():
 				self[key] = value
 		
 		self.evaluated = False
 		self.fitness = 0
 
-		for key, value in kwargs.iteritems():
+		for key, value in kwargs.items():
 			self[key] = value
 		return
 
@@ -46,7 +46,7 @@ class Solution(dict):
 
 	def __str__(self):
 		s = []
-		for key, value in self.iteritems():
+		for key, value in self.items():
 			s.append("%s:%s" % (str(key), str(value)))
 		s.append("evaluated:%d" % (self.evaluated))
 		s.append("fitness:%f" % (self.fitness))

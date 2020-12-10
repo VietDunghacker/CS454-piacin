@@ -2,7 +2,7 @@ from ..piacin import Piacin
 from ..solution import Solution
 from ..fitness import fitness
 from os.path import expanduser
-import neighbourgen
+from . import neighbourgen
 import math
 import os
 import sys
@@ -80,6 +80,7 @@ class PiacinSA(Piacin):
 				logging.info("Random Restart: %s" % (str(self.current_solution)))
 				self.previous_neighbor = []
 				self.state = self.GENERATE
+				self.remaining_evaluations -= 1
 				return
 			else:
 				logging.info("Retrying another neighbour")
@@ -115,8 +116,8 @@ class PiacinSA(Piacin):
 			except OSError as exc:
 				if exc.errno == errno.EEXIST and os.path.isdir(self.bag_location):
 					pass
-        		else: 
-        			raise
+				else: 
+					raise
 			logging.warning("packing a new instance of PiacinHC")
 			self.pack()
 		

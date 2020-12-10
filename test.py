@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
     cmd = which("python")
     if args.pypy:
-        cmd = which("pypy")    
+        cmd = which("pypy")
 
     for bm in args.bms:
         for run in range(args.runs):
@@ -90,7 +90,7 @@ if __name__ == "__main__":
                 cmdarg = " ".join([cmd, bm, "-k", str(args.bmnumber)])
 
             exe = Executable(cmdarg, os.getcwd())
-            log_filename = "log_%s_n_%d_bm_%d_%s_piacin_%d_run_%02d.txt" % (bm, args.number, args.bmnumber, os.path.split(cmd)[1], 1 if args.piacin else 0, run)
+            log_filename = "./result/ga/log_%s_n_%d_bm_%d_%s_piacin_%d_run_%02d.txt" % (bm, args.number, args.bmnumber, os.path.split(cmd)[1], 1 if args.piacin else 0, run)
             log = open(log_filename, "w")
             print("run %d / %d" % (run + 1, args.runs))
             for i in range(args.number):

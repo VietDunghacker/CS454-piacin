@@ -2,7 +2,7 @@ from ..piacin import Piacin
 from ..solution import Solution
 from ..fitness import fitness
 from os.path import expanduser
-import neighbourgen
+from . import neighbourgen
 import math
 import os
 import sys
@@ -70,6 +70,7 @@ class PiacinHC(Piacin):
 			self.current_solution = self.generate_random()
 			logging.info("Random Restart: %s" % (str(self.current_solution)))
 			self.previous_solution = self.current_solution
+			self.remaining_evaluations -= 1
 			self.state = 2
 			return
 		else:
@@ -104,8 +105,8 @@ class PiacinHC(Piacin):
 			except OSError as exc:
 				if exc.errno == errno.EEXIST and os.path.isdir(self.bag_location):
 					pass
-        		else: 
-        			raise
+				else:
+					raise
 			logging.warning("packing a new instance of PiacinHC")
 			self.pack()
 		
@@ -154,7 +155,6 @@ def save_state(piacin):
 	piacin.current_solution.evaluated = True
 	piacin.current_solution.fitness = fitness
 	logging.info("Current Solution: %s" %(str(piacin.current_solution)))
-	logging.info("Best Solution: %s" %(str(piacin.best_solution)))
 	piacin.pack()
 
 if hasattr(sys, "pypy_translation_info"):

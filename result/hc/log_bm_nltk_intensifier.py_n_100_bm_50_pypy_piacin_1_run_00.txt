@@ -1,0 +1,397 @@
+# 2020-12-10 20:41:58,390 - root - INFO - START
+# 2020-12-10 20:41:58,390 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.06376576423645
+# 2020-12-10 20:42:19,455 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.064292
+# 2020-12-10 20:42:21,434 - root - INFO - GENERATE
+# 2020-12-10 20:42:21,434 - root - INFO - EVALUATING 1/12
+# 2020-12-10 20:42:21,435 - root - INFO - GetNextInput returning: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.323680877685547
+# 2020-12-10 20:42:42,759 - root - INFO - Current Solution: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.324188
+# 2020-12-10 20:42:44,739 - root - INFO - EVALUATING 2/12
+# 2020-12-10 20:42:44,740 - root - INFO - GetNextInput returning: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.840291023254395
+# 2020-12-10 20:43:05,581 - root - INFO - Current Solution: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.840782
+# 2020-12-10 20:43:07,589 - root - INFO - EVALUATING 3/12
+# 2020-12-10 20:43:07,589 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.18021821975708
+# 2020-12-10 20:43:28,770 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.180725
+# 2020-12-10 20:43:30,750 - root - INFO - EVALUATING 4/12
+# 2020-12-10 20:43:30,750 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.01661252975464
+# 2020-12-10 20:43:51,767 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.017094
+# 2020-12-10 20:43:53,759 - root - INFO - EVALUATING 5/12
+# 2020-12-10 20:43:53,759 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.46887516975403
+# 2020-12-10 20:44:15,229 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.469375
+# 2020-12-10 20:44:17,269 - root - INFO - EVALUATING 6/12
+# 2020-12-10 20:44:17,270 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.5918 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.06435489654541
+# 2020-12-10 20:44:38,335 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.5918 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.064863
+# 2020-12-10 20:44:40,358 - root - INFO - EVALUATING 7/12
+# 2020-12-10 20:44:40,358 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:50 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+22.40265202522278
+# 2020-12-10 20:45:02,762 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:50 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:22.403149
+# 2020-12-10 20:45:04,755 - root - INFO - EVALUATING 8/12
+# 2020-12-10 20:45:04,755 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.772372722625732
+# 2020-12-10 20:45:25,528 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.772841
+# 2020-12-10 20:45:27,488 - root - INFO - EVALUATING 9/12
+# 2020-12-10 20:45:27,488 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:210 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.15119194984436
+# 2020-12-10 20:45:48,640 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:210 max_retrace_guards:15 evaluated:1 fitness:21.151696
+# 2020-12-10 20:45:50,617 - root - INFO - EVALUATING 10/12
+# 2020-12-10 20:45:50,617 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:190 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.07883596420288
+# 2020-12-10 20:46:11,697 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:190 max_retrace_guards:15 evaluated:1 fitness:21.079328
+# 2020-12-10 20:46:13,695 - root - INFO - EVALUATING 11/12
+# 2020-12-10 20:46:13,695 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:20 evaluated:0 fitness:0.000000
+21.102489233016968
+# 2020-12-10 20:46:34,799 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:20 evaluated:1 fitness:21.102978
+# 2020-12-10 20:46:36,820 - root - INFO - EVALUATING 12/12
+# 2020-12-10 20:46:36,821 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:10 evaluated:0 fitness:0.000000
+21.41518497467041
+# 2020-12-10 20:46:58,237 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:10 evaluated:1 fitness:21.415686
+# 2020-12-10 20:47:00,220 - root - INFO - MOVING
+# 2020-12-10 20:47:00,221 - root - INFO - Moving to: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.772841 (20.772841)
+# 2020-12-10 20:47:00,221 - root - INFO - GENERATE
+# 2020-12-10 20:47:00,221 - root - INFO - EVALUATING 1/12
+# 2020-12-10 20:47:00,221 - root - INFO - GetNextInput returning: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.83779788017273
+# 2020-12-10 20:47:21,060 - root - INFO - Current Solution: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.838279
+# 2020-12-10 20:47:23,095 - root - INFO - EVALUATING 2/12
+# 2020-12-10 20:47:23,095 - root - INFO - GetNextInput returning: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.02877426147461
+# 2020-12-10 20:47:44,124 - root - INFO - Current Solution: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.029280
+# 2020-12-10 20:47:46,155 - root - INFO - EVALUATING 3/12
+# 2020-12-10 20:47:46,156 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.375999927520752
+# 2020-12-10 20:48:07,533 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.376507
+# 2020-12-10 20:48:09,491 - root - INFO - EVALUATING 4/12
+# 2020-12-10 20:48:09,491 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.96709942817688
+# 2020-12-10 20:48:30,459 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.967613
+# 2020-12-10 20:48:32,449 - root - INFO - EVALUATING 5/12
+# 2020-12-10 20:48:32,450 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.58558464050293
+# 2020-12-10 20:48:53,036 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.586081
+# 2020-12-10 20:48:55,011 - root - INFO - EVALUATING 6/12
+# 2020-12-10 20:48:55,012 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.5918 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.280581951141357
+# 2020-12-10 20:49:16,293 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.5918 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.281059
+# 2020-12-10 20:49:18,319 - root - INFO - EVALUATING 7/12
+# 2020-12-10 20:49:18,320 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.690665245056152
+# 2020-12-10 20:49:40,011 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.691152
+# 2020-12-10 20:49:42,032 - root - INFO - EVALUATING 8/12
+# 2020-12-10 20:49:42,032 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.634222269058228
+# 2020-12-10 20:50:02,667 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.634861
+# 2020-12-10 20:50:04,667 - root - INFO - EVALUATING 9/12
+# 2020-12-10 20:50:04,667 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:210 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.69663715362549
+# 2020-12-10 20:50:25,364 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:210 max_retrace_guards:15 evaluated:1 fitness:20.697138
+# 2020-12-10 20:50:27,412 - root - INFO - EVALUATING 10/12
+# 2020-12-10 20:50:27,412 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:190 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.05420184135437
+# 2020-12-10 20:50:48,467 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:190 max_retrace_guards:15 evaluated:1 fitness:21.054700
+# 2020-12-10 20:50:50,498 - root - INFO - EVALUATING 11/12
+# 2020-12-10 20:50:50,498 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:20 evaluated:0 fitness:0.000000
+21.088829517364502
+# 2020-12-10 20:51:11,588 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:20 evaluated:1 fitness:21.089475
+# 2020-12-10 20:51:13,600 - root - INFO - EVALUATING 12/12
+# 2020-12-10 20:51:13,601 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:10 evaluated:0 fitness:0.000000
+21.43651032447815
+# 2020-12-10 20:51:35,038 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:10 evaluated:1 fitness:21.436986
+# 2020-12-10 20:51:37,062 - root - INFO - MOVING
+# 2020-12-10 20:51:37,063 - root - INFO - Moving to: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.586081 (20.586081)
+# 2020-12-10 20:51:37,063 - root - INFO - GENERATE
+# 2020-12-10 20:51:37,063 - root - INFO - EVALUATING 1/12
+# 2020-12-10 20:51:37,063 - root - INFO - GetNextInput returning: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.428490161895752
+# 2020-12-10 20:51:58,493 - root - INFO - Current Solution: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.429063
+# 2020-12-10 20:52:00,448 - root - INFO - EVALUATING 2/12
+# 2020-12-10 20:52:00,448 - root - INFO - GetNextInput returning: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.371057987213135
+# 2020-12-10 20:52:21,820 - root - INFO - Current Solution: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.371542
+# 2020-12-10 20:52:23,857 - root - INFO - EVALUATING 3/12
+# 2020-12-10 20:52:23,857 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.04963755607605
+# 2020-12-10 20:52:44,908 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.050131
+# 2020-12-10 20:52:46,924 - root - INFO - EVALUATING 4/12
+# 2020-12-10 20:52:46,925 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.49605703353882
+# 2020-12-10 20:53:08,422 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.496570
+# 2020-12-10 20:53:10,377 - root - INFO - EVALUATING 5/12
+# 2020-12-10 20:53:10,377 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.7418000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.874635696411133
+# 2020-12-10 20:53:31,253 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.7418000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.875129
+# 2020-12-10 20:53:33,259 - root - INFO - EVALUATING 6/12
+# 2020-12-10 20:53:33,259 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.006515502929688
+# 2020-12-10 20:53:54,266 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.007006
+# 2020-12-10 20:53:56,243 - root - INFO - EVALUATING 7/12
+# 2020-12-10 20:53:56,244 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.13215947151184
+# 2020-12-10 20:54:17,377 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:40 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:21.132655
+# 2020-12-10 20:54:19,356 - root - INFO - EVALUATING 8/12
+# 2020-12-10 20:54:19,357 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.263852834701538
+# 2020-12-10 20:54:39,621 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.264346
+# 2020-12-10 20:54:41,629 - root - INFO - EVALUATING 9/12
+# 2020-12-10 20:54:41,629 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:210 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.015089511871338
+# 2020-12-10 20:55:02,645 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:210 max_retrace_guards:15 evaluated:1 fitness:21.015558
+# 2020-12-10 20:55:04,616 - root - INFO - EVALUATING 10/12
+# 2020-12-10 20:55:04,616 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:190 max_retrace_guards:15 evaluated:0 fitness:0.000000
+21.045466899871826
+# 2020-12-10 20:55:25,663 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:190 max_retrace_guards:15 evaluated:1 fitness:21.045949
+# 2020-12-10 20:55:27,627 - root - INFO - EVALUATING 11/12
+# 2020-12-10 20:55:27,628 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:20 evaluated:0 fitness:0.000000
+21.118481159210205
+# 2020-12-10 20:55:48,748 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:20 evaluated:1 fitness:21.118979
+# 2020-12-10 20:55:50,726 - root - INFO - EVALUATING 12/12
+# 2020-12-10 20:55:50,726 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:10 evaluated:0 fitness:0.000000
+21.03272795677185
+# 2020-12-10 20:56:11,760 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:10 evaluated:1 fitness:21.033230
+# 2020-12-10 20:56:13,795 - root - INFO - MOVING
+# 2020-12-10 20:56:13,795 - root - INFO - Moving to: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.264346 (20.264346)
+# 2020-12-10 20:56:13,795 - root - INFO - GENERATE
+# 2020-12-10 20:56:13,796 - root - INFO - EVALUATING 1/12
+# 2020-12-10 20:56:13,796 - root - INFO - GetNextInput returning: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.813297033309937
+# 2020-12-10 20:56:34,610 - root - INFO - Current Solution: function_threshold:1639 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.813780
+# 2020-12-10 20:56:36,626 - root - INFO - EVALUATING 2/12
+# 2020-12-10 20:56:36,626 - root - INFO - GetNextInput returning: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.64656639099121
+# 2020-12-10 20:56:57,274 - root - INFO - Current Solution: function_threshold:1599 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.647073
+# 2020-12-10 20:56:59,249 - root - INFO - EVALUATING 3/12
+# 2020-12-10 20:56:59,250 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.39565372467041
+# 2020-12-10 20:57:19,646 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:210 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.396138
+# 2020-12-10 20:57:21,675 - root - INFO - EVALUATING 4/12
+# 2020-12-10 20:57:21,675 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.978750705718994
+# 2020-12-10 20:57:42,654 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:190 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.979241
+# 2020-12-10 20:57:44,657 - root - INFO - EVALUATING 5/12
+# 2020-12-10 20:57:44,657 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.7418000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.73905849456787
+# 2020-12-10 20:58:05,397 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.7418000000000001 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.739557
+# 2020-12-10 20:58:07,382 - root - INFO - EVALUATING 6/12
+# 2020-12-10 20:58:07,382 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.753151655197144
+# 2020-12-10 20:58:28,136 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6418 decay:20 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.753658
+# 2020-12-10 20:58:30,125 - root - INFO - EVALUATING 7/12
+# 2020-12-10 20:58:30,126 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.765068769454956
+# 2020-12-10 20:58:50,891 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:30 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.765558
+# 2020-12-10 20:58:52,867 - root - INFO - EVALUATING 8/12
+# 2020-12-10 20:58:52,868 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:10 disable_unrolling:200 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.489415168762207
+# 2020-12-10 20:59:13,358 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:10 disable_unrolling:200 max_retrace_guards:15 evaluated:1 fitness:20.489950
+# 2020-12-10 20:59:15,343 - root - INFO - EVALUATING 9/12
+# 2020-12-10 20:59:15,343 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:210 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.33713150024414
+# 2020-12-10 20:59:35,681 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:210 max_retrace_guards:15 evaluated:1 fitness:20.337615
+# 2020-12-10 20:59:37,672 - root - INFO - EVALUATING 10/12
+# 2020-12-10 20:59:37,672 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:190 max_retrace_guards:15 evaluated:0 fitness:0.000000
+20.433012008666992
+# 2020-12-10 20:59:58,106 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:190 max_retrace_guards:15 evaluated:1 fitness:20.433495
+# 2020-12-10 21:00:00,150 - root - INFO - EVALUATING 11/12
+# 2020-12-10 21:00:00,151 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:20 evaluated:0 fitness:0.000000
+20.83980679512024
+# 2020-12-10 21:00:20,991 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:20 evaluated:1 fitness:20.840298
+# 2020-12-10 21:00:23,001 - root - INFO - EVALUATING 12/12
+# 2020-12-10 21:00:23,001 - root - INFO - GetNextInput returning: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:10 evaluated:0 fitness:0.000000
+20.665621280670166
+# 2020-12-10 21:00:43,668 - root - INFO - Current Solution: function_threshold:1619 trace_eagerness:200 threshold_ratio:0.6918000000000001 decay:20 disable_unrolling:200 max_retrace_guards:10 evaluated:1 fitness:20.666107
+# 2020-12-10 21:00:45,669 - root - INFO - MOVING
+# 2020-12-10 21:00:45,670 - root - INFO - Random Restart: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+# 2020-12-10 21:00:45,670 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+44.006401777267456
+# 2020-12-10 21:01:29,677 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:44.006908
+# 2020-12-10 21:01:31,678 - root - INFO - GENERATE
+# 2020-12-10 21:01:31,678 - root - INFO - EVALUATING 1/12
+# 2020-12-10 21:01:31,679 - root - INFO - GetNextInput returning: function_threshold:1890 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.95049691200256
+# 2020-12-10 21:02:13,630 - root - INFO - Current Solution: function_threshold:1890 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:41.950967
+# 2020-12-10 21:02:15,669 - root - INFO - EVALUATING 2/12
+# 2020-12-10 21:02:15,670 - root - INFO - GetNextInput returning: function_threshold:1850 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.83401155471802
+# 2020-12-10 21:02:57,504 - root - INFO - Current Solution: function_threshold:1850 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:41.834495
+# 2020-12-10 21:02:59,532 - root - INFO - EVALUATING 3/12
+# 2020-12-10 21:02:59,533 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:91 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+42.132224559783936
+# 2020-12-10 21:03:41,666 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:91 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:42.132704
+# 2020-12-10 21:03:43,692 - root - INFO - EVALUATING 4/12
+# 2020-12-10 21:03:43,693 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:71 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+42.43469047546387
+# 2020-12-10 21:04:26,128 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:71 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:42.435174
+# 2020-12-10 21:04:28,128 - root - INFO - EVALUATING 5/12
+# 2020-12-10 21:04:28,129 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.8013956360178383 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.853816986083984
+# 2020-12-10 21:05:09,983 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.8013956360178383 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:41.854288
+# 2020-12-10 21:05:11,983 - root - INFO - EVALUATING 6/12
+# 2020-12-10 21:05:11,983 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7013956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.799602031707764
+# 2020-12-10 21:05:53,784 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7013956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:41.800079
+# 2020-12-10 21:05:55,815 - root - INFO - EVALUATING 7/12
+# 2020-12-10 21:05:55,816 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:795 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.651270389556885
+# 2020-12-10 21:06:37,468 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:795 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:41.651768
+# 2020-12-10 21:06:39,512 - root - INFO - EVALUATING 8/12
+# 2020-12-10 21:06:39,513 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:775 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+42.068440675735474
+# 2020-12-10 21:07:21,582 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:775 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:42.068912
+# 2020-12-10 21:07:23,571 - root - INFO - EVALUATING 9/12
+# 2020-12-10 21:07:23,572 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:118 max_retrace_guards:25 evaluated:0 fitness:0.000000
+41.986918210983276
+# 2020-12-10 21:08:05,559 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:118 max_retrace_guards:25 evaluated:1 fitness:41.987391
+# 2020-12-10 21:08:07,532 - root - INFO - EVALUATING 10/12
+# 2020-12-10 21:08:07,532 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:98 max_retrace_guards:25 evaluated:0 fitness:0.000000
+42.032217264175415
+# 2020-12-10 21:08:49,565 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:98 max_retrace_guards:25 evaluated:1 fitness:42.032697
+# 2020-12-10 21:08:51,555 - root - INFO - EVALUATING 11/12
+# 2020-12-10 21:08:51,555 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+41.52796649932861
+# 2020-12-10 21:09:33,084 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:41.528440
+# 2020-12-10 21:09:35,101 - root - INFO - EVALUATING 12/12
+# 2020-12-10 21:09:35,101 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:20 evaluated:0 fitness:0.000000
+42.547977924346924
+# 2020-12-10 21:10:17,650 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:20 evaluated:1 fitness:42.548452
+# 2020-12-10 21:10:19,652 - root - INFO - MOVING
+# 2020-12-10 21:10:19,653 - root - INFO - Moving to: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:41.528440 (41.528440)
+# 2020-12-10 21:10:19,653 - root - INFO - GENERATE
+# 2020-12-10 21:10:19,653 - root - INFO - EVALUATING 1/12
+# 2020-12-10 21:10:19,653 - root - INFO - GetNextInput returning: function_threshold:1890 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.23560094833374
+# 2020-12-10 21:11:01,890 - root - INFO - Current Solution: function_threshold:1890 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:42.236079
+# 2020-12-10 21:11:03,923 - root - INFO - EVALUATING 2/12
+# 2020-12-10 21:11:03,924 - root - INFO - GetNextInput returning: function_threshold:1850 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.71811771392822
+# 2020-12-10 21:11:46,642 - root - INFO - Current Solution: function_threshold:1850 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:42.718589
+# 2020-12-10 21:11:48,589 - root - INFO - EVALUATING 3/12
+# 2020-12-10 21:11:48,590 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:91 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.034544706344604
+# 2020-12-10 21:12:30,625 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:91 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:42.035009
+# 2020-12-10 21:12:32,604 - root - INFO - EVALUATING 4/12
+# 2020-12-10 21:12:32,604 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:71 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+41.90852189064026
+# 2020-12-10 21:13:14,513 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:71 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:41.909017
+# 2020-12-10 21:13:16,536 - root - INFO - EVALUATING 5/12
+# 2020-12-10 21:13:16,536 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.8013956360178383 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+41.74032282829285
+# 2020-12-10 21:13:58,277 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.8013956360178383 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:41.740798
+# 2020-12-10 21:14:00,283 - root - INFO - EVALUATING 6/12
+# 2020-12-10 21:14:00,283 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7013956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.00459885597229
+# 2020-12-10 21:14:42,289 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7013956360178382 decay:785 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:42.005071
+# 2020-12-10 21:14:44,339 - root - INFO - EVALUATING 7/12
+# 2020-12-10 21:14:44,340 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:795 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.138487577438354
+# 2020-12-10 21:15:26,479 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:795 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:42.138992
+# 2020-12-10 21:15:28,516 - root - INFO - EVALUATING 8/12
+# 2020-12-10 21:15:28,516 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:775 disable_unrolling:108 max_retrace_guards:30 evaluated:0 fitness:0.000000
+41.783611536026
+# 2020-12-10 21:16:10,300 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:775 disable_unrolling:108 max_retrace_guards:30 evaluated:1 fitness:41.784099
+# 2020-12-10 21:16:12,332 - root - INFO - EVALUATING 9/12
+# 2020-12-10 21:16:12,332 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:118 max_retrace_guards:30 evaluated:0 fitness:0.000000
+42.53169059753418
+# 2020-12-10 21:16:54,864 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:118 max_retrace_guards:30 evaluated:1 fitness:42.532155
+# 2020-12-10 21:16:56,858 - root - INFO - EVALUATING 10/12
+# 2020-12-10 21:16:56,858 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:98 max_retrace_guards:30 evaluated:0 fitness:0.000000
+41.62478494644165
+# 2020-12-10 21:17:38,484 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:98 max_retrace_guards:30 evaluated:1 fitness:41.625254
+# 2020-12-10 21:17:40,452 - root - INFO - EVALUATING 11/12
+# 2020-12-10 21:17:40,453 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:35 evaluated:0 fitness:0.000000
+41.94382095336914
+# 2020-12-10 21:18:22,397 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:35 evaluated:1 fitness:41.944300
+# 2020-12-10 21:18:24,378 - root - INFO - EVALUATING 12/12
+# 2020-12-10 21:18:24,379 - root - INFO - GetNextInput returning: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:0 fitness:0.000000
+42.304742097854614
+# 2020-12-10 21:19:06,684 - root - INFO - Current Solution: function_threshold:1870 trace_eagerness:81 threshold_ratio:0.7513956360178382 decay:785 disable_unrolling:108 max_retrace_guards:25 evaluated:1 fitness:42.305230
+# 2020-12-10 21:19:08,731 - root - INFO - MOVING
+# 2020-12-10 21:19:08,732 - root - INFO - Random Restart: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+# 2020-12-10 21:19:08,732 - root - INFO - GetNextInput returning: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.436694383621216
+# 2020-12-10 21:19:32,169 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.437182
+# 2020-12-10 21:19:34,214 - root - INFO - GENERATE
+# 2020-12-10 21:19:34,215 - root - INFO - EVALUATING 1/12
+# 2020-12-10 21:19:34,215 - root - INFO - GetNextInput returning: function_threshold:1269 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.459083318710327
+# 2020-12-10 21:19:57,675 - root - INFO - Current Solution: function_threshold:1269 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.459580
+# 2020-12-10 21:19:59,694 - root - INFO - EVALUATING 2/12
+# 2020-12-10 21:19:59,694 - root - INFO - GetNextInput returning: function_threshold:1229 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.043583869934082
+# 2020-12-10 21:20:22,739 - root - INFO - Current Solution: function_threshold:1229 trace_eagerness:877 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.044098
+# 2020-12-10 21:20:24,700 - root - INFO - EVALUATING 3/12
+# 2020-12-10 21:20:24,701 - root - INFO - GetNextInput returning: function_threshold:1249 trace_eagerness:887 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.263814449310303
+# 2020-12-10 21:20:47,965 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:887 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.264321
+# 2020-12-10 21:20:49,983 - root - INFO - EVALUATING 4/12
+# 2020-12-10 21:20:49,983 - root - INFO - GetNextInput returning: function_threshold:1249 trace_eagerness:867 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.22074580192566
+# 2020-12-10 21:21:13,205 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:867 threshold_ratio:0.7136307791315429 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.221240
+# 2020-12-10 21:21:15,243 - root - INFO - EVALUATING 5/12
+# 2020-12-10 21:21:15,243 - root - INFO - GetNextInput returning: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:0 fitness:0.000000
+23.3212833404541
+# 2020-12-10 21:21:38,565 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:23.321774
+# 2020-12-10 21:21:40,578 - root - INFO - No Budget: bailing out with best known solution
+20.59172296524048
+# 2020-12-10 21:22:01,171 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.592236
+# 2020-12-10 21:22:03,219 - root - INFO - No Budget: bailing out with best known solution
+20.510271310806274
+# 2020-12-10 21:22:23,730 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.510779
+# 2020-12-10 21:22:25,697 - root - INFO - No Budget: bailing out with best known solution
+20.47481679916382
+# 2020-12-10 21:22:46,172 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.475523
+# 2020-12-10 21:22:48,150 - root - INFO - No Budget: bailing out with best known solution
+20.43238139152527
+# 2020-12-10 21:23:08,583 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.432882
+# 2020-12-10 21:23:10,612 - root - INFO - No Budget: bailing out with best known solution
+20.906526803970337
+# 2020-12-10 21:23:31,519 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.907020
+# 2020-12-10 21:23:33,545 - root - INFO - No Budget: bailing out with best known solution
+20.288480758666992
+# 2020-12-10 21:23:53,834 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.289009
+# 2020-12-10 21:23:55,841 - root - INFO - No Budget: bailing out with best known solution
+21.12901759147644
+# 2020-12-10 21:24:16,970 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:21.129492
+# 2020-12-10 21:24:19,002 - root - INFO - No Budget: bailing out with best known solution
+20.96602487564087
+# 2020-12-10 21:24:39,969 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.966539
+# 2020-12-10 21:24:41,990 - root - INFO - No Budget: bailing out with best known solution
+21.172545433044434
+# 2020-12-10 21:25:03,164 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:21.173048
+# 2020-12-10 21:25:05,143 - root - INFO - No Budget: bailing out with best known solution
+20.547406435012817
+# 2020-12-10 21:25:25,691 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.547898
+# 2020-12-10 21:25:27,717 - root - INFO - No Budget: bailing out with best known solution
+20.642539024353027
+# 2020-12-10 21:25:48,361 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.643028
+# 2020-12-10 21:25:50,392 - root - INFO - No Budget: bailing out with best known solution
+20.547402143478394
+# 2020-12-10 21:26:10,940 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.547916
+# 2020-12-10 21:26:12,900 - root - INFO - No Budget: bailing out with best known solution
+20.31174325942993
+# 2020-12-10 21:26:33,213 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.312253
+# 2020-12-10 21:26:35,190 - root - INFO - No Budget: bailing out with best known solution
+20.391045331954956
+# 2020-12-10 21:26:55,582 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.391552
+# 2020-12-10 21:26:57,578 - root - INFO - No Budget: bailing out with best known solution
+20.613488912582397
+# 2020-12-10 21:27:18,193 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.613998
+# 2020-12-10 21:27:20,193 - root - INFO - No Budget: bailing out with best known solution
+20.345951080322266
+# 2020-12-10 21:27:40,540 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.346480
+# 2020-12-10 21:27:42,534 - root - INFO - No Budget: bailing out with best known solution
+21.03029441833496
+# 2020-12-10 21:28:03,565 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:21.030810
+# 2020-12-10 21:28:05,515 - root - INFO - No Budget: bailing out with best known solution
+20.829710245132446
+# 2020-12-10 21:28:26,345 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.830210
+# 2020-12-10 21:28:28,344 - root - INFO - No Budget: bailing out with best known solution
+20.542402029037476
+# 2020-12-10 21:28:48,887 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.542898
+# 2020-12-10 21:28:50,860 - root - INFO - No Budget: bailing out with best known solution
+20.97365975379944
+# 2020-12-10 21:29:11,834 - root - INFO - Current Solution: function_threshold:1249 trace_eagerness:877 threshold_ratio:0.763630779131543 decay:46 disable_unrolling:747 max_retrace_guards:1 evaluated:1 fitness:20.974170

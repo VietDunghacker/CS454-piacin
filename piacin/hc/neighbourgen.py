@@ -29,7 +29,7 @@ def increase(solution, key):
 	elif key == "max_retrace_guards":
 		return solution["max_retrace_guards"] + 5
 	else:
-		print key
+		print(key)
 		raise KeyError
 
 def decrease(solution, key):
@@ -46,6 +46,6 @@ def decrease(solution, key):
 	elif key == "max_retrace_guards":
 		return solution["max_retrace_guards"] - 5
 	else:
-		print key
+		print(key)
 		raise KeyError
 		
